@@ -1,0 +1,60 @@
+.header-wraper {max-width: 100%;
+  
+}
+.container {width:1780px;
+    height:80px;
+    margin: 0 auto; padding-top:31px;
+    display: flex;
+    justify-content: space-between;}
+
+.logo {font-size:32px;
+        font-family: 'Mrs Saint Delafield', cursive; }
+ .nav-ul {display: flex;}
+ .nav-li {margin-right: 30px; font-family: 'Montserrat', sans-serif;
+        font-size:15px; color:#707070;}
+
+        /* 1 */
+ .section2 {max-width:560px;
+        height:209px; margin-top:119px; margin-left:80px;}
+
+ .header {font-size:26px;font-weight: bold; font-family: 'Montserrat', sans-serif; font-style: bold;}
+ .text {font-size:15px; font-family: 'Montserrat', sans-serif; margin-top:30px; margin-bottom:30px; }
+ .button {width: 220px;
+    height: 56px;
+    background-color: #707070;
+    border-radius: 4px; 
+    color: #fff;
+    font-size:15px;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    padding: 15px 34px 15px 34px;}   
+    /* 2 */
+
+ .container2 {max-width:1780px;       
+       margin: 0 auto; padding-top:31px;   
+     }
+.line1 { height:969px;
+       display: flex;
+       justify-content: space-between; background-color:#FFF8F2; }
+.box {width:368px; height: 976px;
+margin-left:200px; margin-top:132px; }
+.bullets {font-family: 'Montserrat', sans-serif;
+       font-size:12px; color:#707070; margin-top:32px; margin-bottom:12px;}
+.first-text {font-family: 'Montserrat', sans-serif;
+       font-size:18px; color:#707070; font-weight: bold; margin-bottom:16px;}
+.text-image {font-family: 'Montserrat', sans-serif;
+       font-size:15px; color:black; margin-top:15px;}
+.background {color: #FFF8F2;
+height: 710px; margin-top:50px;}
+.fa-arrow-right {margin-top:32px; font-size:20px;}
+
+/* 3 */
+
+.line2 { height:969px;
+       display: flex;
+       justify-content: center;}
+.box2 {width:368px; height: 976px;
+       margin-left:40px; margin-top:132px; }
+.box3 {width:368px; height: 976px;
+       margin-left:40px;}
+       
